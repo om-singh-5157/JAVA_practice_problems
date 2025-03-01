@@ -42,5 +42,18 @@ public class array1 {
             sum+=arr[c];
         }
         System.out.println("sum="+sum);
+        //8
+        System.out.println();
+        for(int a=0;a<arr.length;a++){
+            int c=0;
+            for(int j=1;j<=arr[a];j++){
+                if(arr[a]%j==0){
+                    c++;
+                }
+            }
+            if(c==2){
+                System.out.print(arr[a]+" ");
+            }
+        }
     }
 }
