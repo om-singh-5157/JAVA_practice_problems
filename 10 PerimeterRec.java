@@ -9,5 +9,6 @@ class PerimeterRec {
         System.out.print("Enter the breadth:");
         double b=input.nextInt();
         System.out.println("Perimeter of ur rectangle is = "+(2*(l+b)));
+        //jbb
     }
 }
