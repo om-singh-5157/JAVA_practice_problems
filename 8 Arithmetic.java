@@ -10,8 +10,8 @@ class Arithmetic {
         int y= input.nextInt();
         System.out.println("sum = "+(x+y));
         System.out.println("sub = "+(x-y));
-        // System.out.println("mul = "+(x*y));
-        // System.out.println("div = "+(x/y));
-        // System.out.println("mod = "+(x%y));
+        System.out.println("mul = "+(x*y));
+        System.out.println("div = "+(x/y));
+        System.out.println("mod = "+(x%y));
     }
 }
