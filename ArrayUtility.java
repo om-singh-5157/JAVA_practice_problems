@@ -12,6 +12,6 @@ public class ArrayUtility {
             arr[i] = input.nextInt();
             i++;
         }
-        return arr;
+        return arr; //good
     }
 }
