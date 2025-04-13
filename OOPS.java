@@ -1,18 +1,18 @@
 // import bank;
 
-// class Pen{
-//     String color;
-//     String type;
+class Pen{
+    String color;
+    String type;
 
-//     public void write(){
-//         System.out.println("Written....");
-//     }
+    public void write(){
+        System.out.println("Written....");
+    }
 
-//     public void print(){
-//         System.out.println(this.color);
-//         System.out.println(this.type);
-//     }
-// }
+    public void print(){
+        System.out.println(this.color);
+        System.out.println(this.type);
+    }
+}
 
 // class Student{
 //     String name;
